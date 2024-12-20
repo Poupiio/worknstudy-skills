@@ -35,7 +35,7 @@ Pour les requêtes d'écriture de données (création / modification / suppressi
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[The Good Corner - Frontend with GraphQL](https://github.com/Poupiio/TGC_Frontend_GraphQL)
 
 Description :
 

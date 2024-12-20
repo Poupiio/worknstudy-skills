@@ -6,7 +6,10 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les différences avec l'architecture monolithique ❌ / ✔️
+- les différences avec l'architecture monolithique ✔️
+Une application avec architecture monolithique n'a qu'un seul serveur backend, donc si le serveur crashe, c'est toute l'appl qui est inutilisable.
+Les microservices permettent d'attribuer un serveur back à une partie de l'application, une fonctionnalité, afin de différencier le service du reste de l'application. Si une application comporte 5 microservices, et que le serveur de l'un d'entre eux rencontre des difficultés, le reste des microservices ne sera pas impacté.
+
 - la communication asynchrone entre services ❌ / ✔️
 - le deploiement d'un cluster ❌ / ✔️
 
